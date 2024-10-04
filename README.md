@@ -1,0 +1,3 @@
+# ALX — Interview
+
+This GitHub repository serves as a valuable resource for software engineering students preparing for technical interviews. Curated by the ALX school program, it offers a comprehensive collection of coding challenges, practice exercises, and sample solutions. These materials are carefully designed to help students hone their problem-solving skills, algorithmic thinking, and coding proficiency. By engaging with the content in this repository, students can significantly enhance their chances of success in technical interviews and secure their desired roles in the software engineering field.
